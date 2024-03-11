@@ -1,0 +1,25 @@
+D:\Akash_Ghosh\Store\Store\bin\Debug\Store.exe.config
+D:\Akash_Ghosh\Store\Store\bin\Debug\Store.exe
+D:\Akash_Ghosh\Store\Store\bin\Debug\Store.pdb
+D:\Akash_Ghosh\Store\Store\bin\Debug\System.Data.OleDb.dll
+D:\Akash_Ghosh\Store\Store\bin\Debug\System.Data.OleDb.xml
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.csproj.SuggestedBindingRedirects.cache
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.Properties.Resources.resources
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.csproj.GenerateResource.cache
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.csproj.CopyComplete
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.exe
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.pdb
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.Form1.resources
+D:\Akash_Ghosh\Store\Store\bin\Debug\Asha_Departmental_Store.accdb
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.Allview.resources
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.Form2.resources
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.Form3.resources
+D:\Akash_Ghosh\Store\Store\obj\Debug\Store.Form4.resources
+C:\Users\hasri\Downloads\Software\Store\Store\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\hasri\Downloads\Software\Store\Store\Store\obj\Debug\Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasri\Downloads\Software\Store\Store\Store\obj\Debug\Store.exe
+C:\Users\hasri\Downloads\Software\Store\Store\Store\obj\Debug\Store.pdb
+C:\Users\hasri\Downloads\Database Project - Hasritha Puthalapattu\Software\Store\Store\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\hasri\Downloads\Database Project - Hasritha Puthalapattu\Software\Store\Store\Store\obj\Debug\Store.csproj.SuggestedBindingRedirects.cache
